@@ -1,0 +1,2 @@
+Denna primtalsfaktorisator var skapad av Benjamin Reyier Hedin (19BEHE)
+för användning av Stockholm Science and Innovation School
